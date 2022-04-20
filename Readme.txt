@@ -1,11 +1,17 @@
 0.This is experiment data for the following article:
-@misc{liu2021topic,
-      title={Topic Model Supervised by Understanding Map}, 
-      author={Gangli Liu},
-      year={2021},
-      eprint={2110.06043},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+
+@article{DBLP:journals/corr/abs-2110-06043,
+  author    = {Gangli Liu},
+  title     = {Topic Model Supervised by Understanding Map},
+  journal   = {CoRR},
+  volume    = {abs/2110.06043},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2110.06043},
+  eprinttype = {arXiv},
+  eprint    = {2110.06043},
+  timestamp = {Fri, 22 Oct 2021 13:33:09 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2110-06043.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
 1.  *.txt files are the data of Table 4 of the paper.
